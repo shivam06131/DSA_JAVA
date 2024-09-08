@@ -1,7 +1,7 @@
 public class ReverseNumberQue {
     public static void main(String[] args) {
 
-        int reversed = reverseNumber(1147483647);
+        int reversed = reverseNumber(11474836);
         System.out.println("reversed => " + reversed);
     }
 
